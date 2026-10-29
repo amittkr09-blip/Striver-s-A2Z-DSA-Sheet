@@ -15,17 +15,7 @@ A structured collection of Java solutions to Striver's A2Z DSA Sheet, organized 
 
 ## 📚 Topics Covered
 
-* Basics
 * Sorting
-* Arrays
-* Binary Search
-* Strings
-* Recursion
-* Linked Lists
-* Stacks and Queues
-* Trees
-* Graphs
-* Dynamic Programming
 
 ## 📈 Progress
 
